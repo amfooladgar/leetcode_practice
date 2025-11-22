@@ -66,6 +66,7 @@ Interview focus areas:
 - Interview questions
 - Solution approaches
 
+### [Verizon](./Verizon)
 ---
 
 ## 📚 Preparation Strategy
